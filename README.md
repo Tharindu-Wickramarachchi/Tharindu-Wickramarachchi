@@ -24,6 +24,6 @@ boundaries of what I can create.
 <h2 align="center">Languages-Frameworks-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,php,dart" />
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,flaskvscode,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,php,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,flask,vscode,github,figma,git" /><br>
 </div>
