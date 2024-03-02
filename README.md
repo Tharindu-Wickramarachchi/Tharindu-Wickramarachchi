@@ -25,5 +25,5 @@ boundaries of what I can create.
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,php,dart" /><br>
-    <img src="https://skillicons.dev/icons?i=flutter,firebase,flask,vscode,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,flask,vscode,github,figma,github,git" /><br>
 </div>
