@@ -10,6 +10,7 @@ I'm Tharindu, a passionate software engineering student deeply immersed in learn
 Software Engineering, I'm dedicated to exploring the endless possibilities of technology. Actively honing my skills in various programming languages and technologies, I focus on both front-end and 
 back-end development. Whether it's building sleek mobile applications, crafting efficient algorithms, or diving into artificial intelligence, I'm always eager to expand my knowledge and push the 
 boundaries of what I can create.
+    
 </div>
 
 <div align="center"> 
