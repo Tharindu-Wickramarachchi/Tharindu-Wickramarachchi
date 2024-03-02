@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tharindu-Wickramarachchi.Tharindu-Wickramarachchi" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharindu!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
 <!--
 **Tharindu-Wickramarachchi/Tharindu-Wickramarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
