@@ -11,6 +11,15 @@ Software Engineering, I'm dedicated to exploring the endless possibilities of te
 back-end development. Whether it's building sleek mobile applications, crafting efficient algorithms, or diving into artificial intelligence, I'm always eager to expand my knowledge and push the 
 boundaries of what I can create.
 </div>
+
+<div align="center"> 
+  <a href="mailto:tharinduwick2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/tharindu-wickramarachchi-538819258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 <!--
 
 👋 Hi there! I'm Tharindu, a passionate software engineering student deeply immersed in learning the foundational principles and advanced concepts driving software development.
