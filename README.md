@@ -5,13 +5,13 @@
 </h1>
 
 <br/>
+<div>
 I'm Tharindu, a passionate software engineering student deeply immersed in learning the foundational principles and advanced concepts driving software development.
-
 
 Currently pursuing my degree in Software Engineering, I'm dedicated to exploring the endless possibilities of technology.
 
 Actively honing my skills in various programming languages and technologies, I focus on both front-end and back-end development. Whether it's building sleek mobile applications, crafting efficient algorithms, or diving into artificial intelligence, I'm always eager to expand my knowledge and push the boundaries of what I can create.
-
+</div>
 <!--
 
 👋 Hi there! I'm Tharindu, a passionate software engineering student deeply immersed in learning the foundational principles and advanced concepts driving software development.
