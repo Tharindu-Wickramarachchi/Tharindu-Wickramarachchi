@@ -16,7 +16,7 @@ boundaries of what I can create.
   <a href="mailto:tharinduwick2002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="[https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/tharindu-wickramarachchi-538819258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
+  <a href="https://www.linkedin.com/in/tharindu-wickramarachchi-538819258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
