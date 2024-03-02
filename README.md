@@ -20,23 +20,10 @@ boundaries of what I can create.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-<!--
 
-👋 Hi there! I'm Tharindu, a passionate software engineering student deeply immersed in learning the foundational principles and advanced concepts driving software development.
-
-🎓 Currently pursuing my degree in Software Engineering, I'm dedicated to exploring the endless possibilities of technology.
-
-💻 Actively honing my skills in various programming languages and technologies, I focus on [mention any specific areas of interest or specialization], whether it's building sleek web applications, crafting efficient algorithms, or diving into artificial intelligence. Always eager to expand my knowledge and push the boundaries of what I can create.
-**Tharindu-Wickramarachchi/Tharindu-Wickramarachchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql,dart" />
+    <img src="https://skillicons.dev/icons?i=flutter,firebase,flaskvscode,github,figma,git" /><br>
+</div>
