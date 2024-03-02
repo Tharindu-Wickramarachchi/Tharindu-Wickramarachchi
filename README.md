@@ -6,6 +6,7 @@
 
 <br/>
 <div>
+    
 I'm Tharindu, a passionate software engineering student deeply immersed in learning the foundational principles and advanced concepts driving software development.
 
 Currently pursuing my degree in Software Engineering, I'm dedicated to exploring the endless possibilities of technology.
